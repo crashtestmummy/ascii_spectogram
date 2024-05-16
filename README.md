@@ -6,6 +6,6 @@ produce a spectogram of audio in the console
 
 # Run
 Within the virtual environment
-"""
+```
 python ascii_spectogram.py
-"""
+```
